@@ -7,11 +7,11 @@
 | Pre-course | https://github.com/neuefische/ds-welcome-package | https://forms.gle/9g2A9hDjZ48o1hzh8 | 2023-02-01 | 
 | Daily Review | https://github.com/neuefische/hh-ds-23-1-daily-review | --- | 2023-02-06 | 
 | UNIX Tutorial | https://github.com/neuefische/ds-group-work/blob/add-unix/1-unix-task.md | --- | 2023-02-07 | 
-| Python Basics 1 | https://github.com/neuefische/ds-python-basics | https://docs.google.com/forms/d/e/1FAIpQLSecTCW_tjpx3fKEUl7_3a_g7LMSBepHSSapkQOqYz-Pxyxkww/viewform | 2023-02-08 | 
-| Python Basics 2 | https://github.com/neuefische/ds-python-basics | https://docs.google.com/forms/d/e/1FAIpQLSd-pigdIa_9lTll-P_tOSb_TmiQfgKFlWN1xdsi3U3HHKCdcg/viewform | 2023-02-09 | 
+| Python Basics 1 | https://github.com/neuefische/ds-python-basics | https://forms.gle/cJeU7iM4qhpaq49J8 | 2023-02-08 | 
+| Python Basics 2 | https://github.com/neuefische/ds-python-basics | https://forms.gle/1L9yfuewfuBtRGjP6 | 2023-02-09 | 
 | Tic Tac Toe Challenge | https://github.com/neuefische/ds-coding-tic-tac-toe/blob/main/Tic-Tac-Toe-assignment.md | --- | 2023-02-10 | 
-| Git Workflows | --- | https://docs.google.com/forms/d/e/1FAIpQLScOMKBjHiUu4qY-jrXSyY8Zd-9XsqvtXC1Igk6sz3vxZ565pA/viewform | 2023-02-13 | 
-| Machine Learning Intro | --- | https://docs.google.com/forms/d/e/1FAIpQLSdBjuXEmMFFUzQU5TPxSHC01XrIK6sCh_GDlvio3-4Ce9hRgA/viewform | 2023-02-13 |
+| Git Workflows | --- | https://forms.gle/kdJzEvoyry8yH6988 | 2023-02-13 | 
+| Machine Learning Intro | --- | https://forms.gle/25x3QPHNrfxK7wzJ6 | 2023-02-13 |
 | SQL Island | https://sql-island.informatik.uni-kl.de/ | --- | 2023-02-14 | 
 | SQL Police Department | https://sqlpd.com/ | --- | 2023-02-14 | 
 | SQL Intro | https://github.com/neuefische/ds-sql-intro | --- | 2023-02-14 |
